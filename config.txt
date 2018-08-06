@@ -1,0 +1,2 @@
+WiGig_id:1
+Mode:2
